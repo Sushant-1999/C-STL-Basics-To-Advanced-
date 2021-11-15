@@ -1,0 +1,18 @@
+Introduction to the C++ Language
+
+1) It is low level programming Language
+2) It is very better with respect to the speed of Execution
+3) C++ is derived from C Language
+4) C++ has Richer Library than C Language
+5) C++ supports Object Oriented programming
+6) C++ is the most popular Language for Competitive Coding
+7) Generic programming
+
+
+Applications of C++ Language :
+
+1) Chrome
+2) Firefox
+3) Operating System
+4) Devices and Drivers
+5) Compilers

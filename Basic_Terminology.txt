@@ -1,0 +1,16 @@
+Different between Statically Typed and Dynamically Typed Language
+
+Statically Typed Language ::
+    We have to declare the type of variable and function at the time of declaration before using it.
+    C++, Java
+    Faster Languages
+
+Dynamically Typed Language :: 
+
+    We don't have to declare the type of variable and function at the time of declaration.
+    Slower Languages
+
+
+Header Files ::
+    Header files are used to declare the functions and variables.
+    Stores declarations of variable, functions and classes.
