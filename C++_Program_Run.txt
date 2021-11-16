@@ -1,0 +1,8 @@
+When you use ides and compile the source code envoke compiler and object code of that source got generated.
+After that you can use the object code to run the program.
+Then you can use the object code to compile the source code again and again.
+Linker is used to link the object code to the executable file.
+Libraries are used to link the object code to the executable file.
+The executable file is the output of the linker.
+This is how the program is executed.
+
